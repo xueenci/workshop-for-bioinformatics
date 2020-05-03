@@ -1,1 +1,1 @@
-# workshop-for-bioinformatics
+# workshop1-for-bioinformatics
